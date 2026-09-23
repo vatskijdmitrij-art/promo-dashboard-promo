@@ -1,1 +1,0 @@
-# amvera.yml run: # Убедитесь, что порт совпадает с тем, который слушает ваш Dash (в коде мы ставили os.environ.get("PORT", 5000)) containerPort: 80
